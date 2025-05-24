@@ -1,8 +1,6 @@
-module my_contract::blob_storage {
-    use sui::object::{UID};
-    use sui::tx_context::TxContext;
+module decentralized_ai_labeling::blob_storage {
 
-    struct BlobRecord has key {
+    public struct BlobRecord has key {
         id: UID,
         content: vector<u8>,
         owner: address
