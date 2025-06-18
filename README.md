@@ -1,6 +1,7 @@
 ﻿# Decentralized-AI-Labeling-Platform
 ![Decentralized AI Labeling Platform Icon](https://raw.githubusercontent.com/RSTsai/Decentralized-AI-Labeling-Platform/main/Decentralized-AI-Labeling-Platform_ICON.jpg)
 
+## Sui Overflow 2025 Hackathon
 ## Quick Start 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RSTsai/Decentralized-AI-Labeling-Platform/blob/main/src/colab_env/Vision_LLM_Segmentation_Example.ipynb)
 
