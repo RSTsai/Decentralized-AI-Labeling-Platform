@@ -4,7 +4,7 @@
 ## Quick Start 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RSTsai/Decentralized-AI-Labeling-Platform/blob/main/src/colab_env/Vision_LLM_Segmentation_Example.ipynb)
 
-Zero-shot Segmentation with SAM and CLIP
+AI model Zero-shot Segmentation with SAM and CLIP 
 
 This project demonstrates a zero-shot segmentation approach using the Segment Anything Model (SAM) and CLIP. It allows you to automatically generate masks for objects in an image and then classify these masked regions using text labels.
 
