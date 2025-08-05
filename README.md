@@ -2,6 +2,14 @@
 ![Decentralized AI Labeling Platform Icon](https://raw.githubusercontent.com/RSTsai/Decentralized-AI-Labeling-Platform/main/Decentralized-AI-Labeling-Platform_ICON.jpg)
 
 ## Sui Overflow 2025 Hackathon
+Decentralized AI Data Ecosystem: Empowering Data Ownership in the Age of Artificial Intelligence.
+
+## Project Overview
+In the contemporary AI landscape where data is the new gold, this innovative project introduces a revolutionary decentralized ecosystem that fundamentally transforms how AI training data is stored, managed, and monetized. Our platform addresses the critical challenge of centralized data control by establishing a self-custody wallet infrastructure specifically designed for AI-usable training datasets, enabling users to maintain complete ownership over their data assets while creating sustainable revenue streams through a community-driven marketplace.
+
+The project leverages cutting-edge zero-shot learning models to streamline the data annotation process, making high-quality dataset creation accessible to users without extensive technical expertise. By integrating advanced AI assistance with decentralized storage solutions, we eliminate the traditional barriers that have historically concentrated data control within centralized institutions, thereby democratizing access to AI training resources and creating new economic opportunities for individual data contributors.
+
+
 ## Quick Start 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RSTsai/Decentralized-AI-Labeling-Platform/blob/main/src/colab_env/Vision_LLM_Segmentation_Example.ipynb)
 
@@ -60,3 +68,4 @@ The processed, cropped images of the segmented objects will be saved in the same
 
 
 ![Decentralized AI Labeling Platform Demo](https://raw.githubusercontent.com/RSTsai/Decentralized-AI-Labeling-Platform/main/Decentralized-AI-Labeling-Platform.gif)
+
